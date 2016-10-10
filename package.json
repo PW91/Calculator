@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PW91/Calculator.git"
+  },
+  "author": "Przemyslaw Wieteska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PW91/Calculator/issues"
+  },
+  "homepage": "https://github.com/PW91/Calculator#readme"
+}

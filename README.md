@@ -1,7 +1,5 @@
 # Calculator
 
-Calculator built in HTML, CSS and JS (using jQuery).
+Calculator built in HTML, CSS (SASS) and JS (jQuery).
 
 Accuracy to five decimal places.
-
-Still minor issues to solve...
